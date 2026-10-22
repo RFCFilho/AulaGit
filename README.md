@@ -6,4 +6,4 @@ Aula sobre git 22/10/2026
 - item
 [texto](https://...)
 `código`
-[] tarefa 
+[] tarefa  checklist interativa
